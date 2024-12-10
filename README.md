@@ -35,8 +35,7 @@ This project is focused on analyzing road accident data and presenting the findi
    update or modify the dashboard.
 
 ## Screenshots
-![Screenshot 2024-12-10 162045](https://github.com/user-attachments/assets/0c062baa-35f0-4af4-a970-f12984a1a5a5)
-![Screenshot 2024-12-10 162009](https://github.com/user-attachments/assets/263aaaa9-656b-4a88-8889-192e4da9a090)
+
 
 ## Conclusion
 
